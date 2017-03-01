@@ -1,24 +1,24 @@
 {
-    "name": "trim-char",
-    "version": "0.0.0",
-    "description": "Trim characters from a string",
-    "main": "index.js",
-    "scripts": {
-        "test": "jest --coverage"
-    },
-    "keywords": [
-        "trim",
-        "strip",
-        "character",
-        "remove",
-        "string"
-    ],
-    "author": "Vu Tran <vu@vu-tran.com",
-    "license": "MIT",
-    "devDependencies": {
-        "babel-jest": "^19.0.0",
-        "babel-preset-es2015": "^6.22.0",
-        "coveralls": "^2.11.16",
-        "jest": "^19.0.2"
-    }
+  "name": "trim-char",
+  "version": "0.1.0",
+  "description": "Trim characters from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "trim",
+    "strip",
+    "character",
+    "remove",
+    "string"
+  ],
+  "author": "Vu Tran <vu@vu-tran.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^19.0.0",
+    "babel-preset-es2015": "^6.22.0",
+    "coveralls": "^2.11.16",
+    "jest": "^19.0.2"
+  }
 }
