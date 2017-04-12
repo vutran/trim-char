@@ -1,9 +1,9 @@
 /**
  * Trim the string by the given length on both sides
  *
- * @param {String} value
- * @param {Number} length
- * @return {String}
+ * @param {string} value
+ * @param {number} length
+ * @return {string}
  */
 module.exports = function(value, length) {
     return value.substr(length, value.length - (length + length));
