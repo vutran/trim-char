@@ -1,6 +1,6 @@
 # trim-char
 
-[![Travis](https://img.shields.io/travis/vutran/trim-char/develop.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/vutran/trim-char) [![Coveralls branch](https://img.shields.io/coveralls/vutran/trim-char/develop.svg?maxAge=2592000&style=flat-square)](https://coveralls.io/github/vutran/trim-char) [![license](https://img.shields.io/github/license/vutran/trim-char.svg?maxAge=2592000&style=flat-square)](LICENSE)
+[![Travis](https://img.shields.io/travis/vutran/trim-char/master.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/vutran/trim-char) [![Coveralls branch](https://img.shields.io/coveralls/vutran/trim-char/master.svg?maxAge=2592000&style=flat-square)](https://coveralls.io/github/vutran/trim-char) [![license](https://img.shields.io/github/license/vutran/trim-char.svg?maxAge=2592000&style=flat-square)](LICENSE)
 
 > Trim characters from a string.
 
